@@ -51,7 +51,7 @@ const Login = () => {
         <div className="container-tight py-4">
           <div className="text-center mb-4">
             <a href="." className="navbar-brand navbar-brand-autodark">
-              <img src={require("../assets/Untitled-2-02.png")} height="36" alt="logo" />
+              <img src={require("../assets/logo-removebg-preview.png")} height="36" alt="logo" />
             </a>
           </div>
 
